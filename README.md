@@ -89,5 +89,5 @@ Challenges and Solutions:
 6. "Scikit-learn" (https://scikit-learn.org/)
 7. "OpenStreetMap" (https://www.openstreetmap.org/)
 
-CONCLUSION:
+## CONCLUSION:
 READY TO HARVEST aims to transform agricultural distribution through intelligent buyer matching, multi-buyer allocation, demand forecasting, and logistics optimization. By giving farmers more selling opportunities and control over their harvest, the platform aims to create a transparent and efficient agricultural supply chain.
